@@ -8,4 +8,4 @@ Nuevo Proyecto (Prueba)
 -Y otro más...
 ## Otras cosas
 Puedo dar formato en **cursica* y en **negrita**.
-Y poner [enlaces][https://google.com}
+Y poner [enlaces][https://gregoriofer.com]
