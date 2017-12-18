@@ -5,7 +5,8 @@ Nuevo Proyecto (Prueba)
 
 - Item de la lista
 - Otro Item
--Y otro más...
+- Y otro más...
 ## Otras cosas
-Puedo dar formato en **cursica* y en **negrita**.
-Y poner [enlaces][https://gregoriofer.com]
+Puedo dar formato en *cursiva* y en **negrita**.
+
+Y poner enlaces https://gregoriofer.com
